@@ -1,0 +1,7 @@
+=== CONFIGURATION TEST ===
+Config_ATSLogin: HasValue
+Config_ATSPassword: HasValue
+Config_DaktelaLogin: HasValue
+Config_DaktelaPassword: HasValue
+Config_DebugMode: HasValue
+Config_Messages.GSM.Debug.To: HasValue

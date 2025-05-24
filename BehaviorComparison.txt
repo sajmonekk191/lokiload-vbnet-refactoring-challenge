@@ -1,0 +1,18 @@
+BEHAVIOR COMPARISON RESULTS
+===========================
+Original entries: 7
+Refactored entries: 6
+
+✓ NullResult: MATCH (0 occurrences)
+✓ ParameterType: MATCH (0 occurrences)
+✗ ATSLogin MISMATCH (Original: 1, Refactored: 0)
+✗ DaktelaLogin MISMATCH (Original: 1, Refactored: 0)
+✗ _Result: MISMATCH (Original: 0, Refactored: 1)
+✗ _ExceptionType: MISMATCH (Original: 0, Refactored: 1)
+✓ _FinalStatus: MATCH (0 occurrences)
+✓ DebugTargetsUsed: MATCH (0 occurrences)
+
+Total comparisons: 8
+Matches: 4
+Mismatches: 4
+Match rate: 50,0%

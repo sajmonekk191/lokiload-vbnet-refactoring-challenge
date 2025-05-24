@@ -1,0 +1,6 @@
+=== EDGE CASES TEST ===
+EdgeCase_InitialStatus: Sending
+EdgeCase_Result: Exception
+EdgeCase_ExceptionType: ArgumentException
+EdgeCase_LogCount: 0
+WhitespaceHandled: True
